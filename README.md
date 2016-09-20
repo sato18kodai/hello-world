@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hello world!!
+Lucy diamond in the sky.
